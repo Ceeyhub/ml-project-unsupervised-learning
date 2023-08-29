@@ -8,8 +8,11 @@
 -	Unsupervised learning: Perform k-means clustering, hierarchical clustering, and principal component analysis (PCA) to identify patterns and group similar data points together. Determine the optimal number of clusters and communicate the insights gained through data visualization.
 
 #### Conclusion
-Using data visualization to understand correlation in the dataset, a strong correlation was noticed between grocery and detergents_paper (0.92).
-PCA was applied to reduce the dimensionality of the dataset while preserving essential information. The first few principal components captured most of the variance in the data, indicating that a reduced set of features can explain most of the dataset's variability.
-Through clustering analysis,  distinct customer segments within dataset were identified. These segments provided valuable insights into different customer behaviors, such as high-spending customers, low-spending customers, and medium-spending customers.
-They were noticeable overlap in the clusters especially within the K-Means, this can be improved with further analysis
+- Using data visualization to understand correlation in the dataset, a strong correlation was noticed between grocery and detergents_paper (0.92).
+
+- PCA was applied to reduce the dimensionality of the dataset while preserving essential information. The first few principal components captured most of the variance in the data, indicating that a reduced set of features can explain most of the dataset's variability.
+  
+- Through clustering analysis,  distinct customer segments within dataset were identified. These segments provided valuable insights into different customer behaviors, such as high-spending customers, low-spending customers, and medium-spending customers.
+
+- There were noticeable overlap in the clusters especially within the K-Means, this can be improved with further analysis
 
